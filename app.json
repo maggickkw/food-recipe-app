@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "EduanePa",
-    "slug": "EduanePa",
+    "slug": "eduanepa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3c3cbc8f-a5a4-4975-9519-48a7b3b6c4a0"
+      }
+    },
+    "owner": "maggick"
   }
 }
